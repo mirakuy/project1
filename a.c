@@ -11,4 +11,6 @@ int sub(int a,int b){
 	return a-b;
 }
 
-
+int ggez(){
+	return 69;
+}
